@@ -10,7 +10,6 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.27.2",
     "framer-motion": "4.1.17",
-    "google-map-react": "^1.0.1",
     "react": "^18.1.0",
     "react-data-table-component": "^7.5.2",
     "react-data-table-component-extensions": "^1.6.0",
@@ -21,6 +20,10 @@
     "react-select": "^5.3.2",
     "styled-components": "^5.3.5",
     "web-vitals": "^2.1.4"
+  },
+  "peerDependencies":{
+    "google-map-react": "^1.0.1"
+
   },
   "scripts": {
     "start": "react-scripts start",

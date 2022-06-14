@@ -1,5 +1,5 @@
 export function baseUrl() {
-    return 'http://localhost:8000'
+    return 'https://edm-mapeamento.herokuapp.com/'
 }
 
 
