@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "Quicksand"; /*a name to be used later*/
+  src: url("/../fonts/Quicksand.ttf");
+}
+
+/* @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap'); */
+* {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 200 !important;
+}
+
+.text-red {
+  color: #000000;
+  font-size: 1.4em !important;
+  font-weight: bolder !important;
+}
+.title {
+  color: #ff0000;
+  font-size: 1.5em;
+  font-weight: 500;
+}
+
+.simple-text {
+  font-weight: 200 !important;
+  font-size: 1em;
+  color: #303030;
+
+}
+
+.legenda {
+  margin: 1%;
+}
+
+#leftbox {
+  width: 48%;
+  margin-right: 2%;
+  float: left;
+}
+
+#rightbox {
+  width: 48%;
+  margin-left: 2%;
+  float: left;
+}
