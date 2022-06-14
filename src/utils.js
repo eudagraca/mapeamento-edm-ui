@@ -1,5 +1,5 @@
 export function baseUrl() {
-    return 'https://edm-mapeamento.herokuapp.com/'
+    return 'https://edm-mapeamento.herokuapp.com'
 }
 
 
